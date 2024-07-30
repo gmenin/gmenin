@@ -21,9 +21,6 @@ I'm Gabriel Menin! I'm a Fullstack Developer from Brazil.
   
 - 🎓 Computer Technician at Federal Institute of Education, Science and Technology of Rio Grande do Sul
 
-[![Gmail Badge](https://img.shields.io/badge/-gabr.menin@gmail.com%20-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabr.menin@gmail.com)](mailto:gabr.menin@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Gabriel_Menin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmenin11/)
-
 #### ⚡ Main Skills:
 - Angular
 - Java
