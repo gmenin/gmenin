@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gabriel Menin! I'm a Fullstack Developer from Brazil. 
+I'm Gabriel Menin! I'm a Full Stack Developer from Brazil, working with Typescript/Javascript and Java mainly. Currently working at Aegro as Software Engineer.
 
 - 🎓 B.Sc. in Biomedical Informatics at Federal University of Health Sciences of Porto Alegre
   
